@@ -1,6 +1,6 @@
-#The random name picker
+# The random name picker
 Picks a random name from a list of names passed in.
 
-##Usage:
+## Usage:
 
-`./random_picker.sh < names`
+```./random_picker.sh < names```
